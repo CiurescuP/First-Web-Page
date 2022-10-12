@@ -1,2 +1,2 @@
 # first-web-page
-My first ever Web Page created for the last exam of a 6 month Web Development course.
+My first ever Web Page created for the last exam of a 6 month Web Development course. The course actually wasn't as complex as I thought it would be so I was a bit insecure about creating my first website. As my first one I'm proud of it, but the thing that I'm most proud of is that I now feel more confident. I deep-dive with new tutorial on Youtube, freecodecamp, wr3 school, MDN, or even google for my own growth. The course thaught me the basics of HTML, CSS, JavaScript and Responsive Design and it made me fall in love with Web Development. For that and for this first website, I'm grateful and proud. 
